@@ -3,7 +3,7 @@
 As an aspiring Data Analyst, I developed a comprehensive **Power BI dashboard** for **AtliQ Hardware** that provides actionable insights across multiple business functions.  
 This project demonstrates how data can support **data-driven decisions** in Finance, Sales, Supply Chain, Marketing, and Executive strategy.
 
-🔗 **Live Dashboard**: [Business Insights 360](https://www.novypro.com/project/business-insights-360-64)
+🔗 **Live Dashboard**: [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNjRiNzIyMjAtNTA1My00OTAzLWEyYzMtZDlhOGRmMTNmYmQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
